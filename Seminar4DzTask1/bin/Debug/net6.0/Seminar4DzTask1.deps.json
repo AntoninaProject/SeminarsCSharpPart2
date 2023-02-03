@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Seminar4DzTask1/1.0.0": {
+        "runtime": {
+          "Seminar4DzTask1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seminar4DzTask1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
